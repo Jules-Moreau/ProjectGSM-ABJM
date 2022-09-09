@@ -19,3 +19,9 @@ Choix entre 2 modem:
 
 Choix d'une antenne pour le modem:
 https://www.digikey.fr/fr/products/detail/linx-technologies-inc/ANT-GNCP-C106L160/15294131
+
+Création d'un tableau excel pour comparer les différents modem
+
+Séance 3
+-
+Finalisation du tableau
