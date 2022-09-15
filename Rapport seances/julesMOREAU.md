@@ -24,4 +24,4 @@ Création d'un tableau excel pour comparer les différents modem
 
 Séance 3
 -
-Finalisation du tableau
+Finalisation du tableau et envoie de celui-ci au référent
