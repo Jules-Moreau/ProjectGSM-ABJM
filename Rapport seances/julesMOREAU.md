@@ -25,3 +25,5 @@ Création d'un tableau excel pour comparer les différents modem
 Séance 3
 -
 Finalisation du tableau et envoie de celui-ci au référent
+
+Manuel d'utilisateur du SIM7000G https://usermanual.wiki/SIMCom-Wireless-Solutions/SIM7000G-4050964.pdf
