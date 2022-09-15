@@ -29,3 +29,8 @@ Finalisation du tableau et envoie de celui-ci au référent
 Manuel d'utilisateur du SIM7000G https://usermanual.wiki/SIMCom-Wireless-Solutions/SIM7000G-4050964.pdf
 
 Manuel de commande du SIM7000G https://cdn.geekfactory.mx/sim7000g/SIM7000%20Series_AT%20Command%20Manual_V1.06.pdf
+
+Séance 4
+-
+Prise en main de la LILYGO T-SIM7000G (schématique présente sur https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G/blob/master/schematic/SIM7000G_20200415.pdf et de l'environnement de travail) trouvé sur le site https://randomnerdtutorials.com/lilygo-t-sim7000g-esp32-lte-gprs-gps/
+
