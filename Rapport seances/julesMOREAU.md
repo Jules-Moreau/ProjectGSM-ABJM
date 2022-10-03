@@ -44,4 +44,6 @@ Prise en main du modem
 
 * test de mise en veille du modem
 
+* essai de reception de sms et lecture sur le terminal (https://docs.arduino.cc/library-examples/gsm-library/GSMExamplesReceiveSMS)
+
 
