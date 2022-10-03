@@ -34,3 +34,7 @@ Séance 4
 -
 Prise en main de la LILYGO T-SIM7000G (schématique présente sur https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G/blob/master/schematic/SIM7000G_20200415.pdf et de l'environnement de travail) trouvé sur le site https://randomnerdtutorials.com/lilygo-t-sim7000g-esp32-lte-gprs-gps/
 
+Séance 5
+-
+Prise en main du modem
+
