@@ -38,3 +38,10 @@ Séance 5
 -
 Prise en main du modem
 
+* téléchargement de l'IDE ARDUINO, installation des bibliothèques pour l'ESP32, édition d'un soft de test de communication entre l'ESP32 et le SIM7000G (scan wifi de la pièce)
+
+* édition d'un soft pour tester l'envoie d'un SMS et la position GPS (réussi avec succès)
+
+* test de mise en veille du modem
+
+
