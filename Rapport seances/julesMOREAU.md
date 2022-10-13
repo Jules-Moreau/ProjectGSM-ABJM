@@ -49,6 +49,8 @@ Prise en main du modem
 Séance 6 13/10/2022
 -
 
+* ajout du code d'envoie SMS et position GPS sur le GIT ainsi que la librairie TinyGSM qu'on utilise
+
 * ajout de la batterie et essai d'envoie SMS sans lien physique avec le PC
 
 * essai de reception SMS et lecture de ce dernier sur le terminal
