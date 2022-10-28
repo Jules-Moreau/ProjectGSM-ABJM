@@ -58,6 +58,6 @@ Séance 6 13/10/2022
 Séance 7 28/10/2022
 -
 
-* poursuivre la reception SMS 
+* poursuivre la reception SMS (mise à jour: les codes précedent pour la réception de SMS étant trop difficile à mettre en place avec une gestion impossible de diverses librairies, nous cherchons dans le manuel de commandes Series_AT du SIM7000 pour effectuer la réception)
 
 
