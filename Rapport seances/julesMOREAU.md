@@ -53,11 +53,11 @@ Séance 6 13/10/2022
 
 * ajout de la batterie et essai d'envoie SMS sans lien physique avec le PC
 
-* essai de reception SMS et lecture de ce dernier sur le terminal (échec car il faut ajouter plusieurs librairies et ça ne répond pas au cahier des charges: inutilité de recevoir des SMS sur la carte)
+* essai de reception SMS et lecture de ce dernier sur le terminal
 
 Séance 7 28/10/2022
 -
 
-* commencement au développement d'un interface web
+* poursuivre la reception SMS 
 
 
