@@ -60,4 +60,10 @@ Séance 7 28/10/2022
 
 * poursuivre la reception SMS (mise à jour: les codes précedent pour la réception de SMS étant trop difficile à mettre en place avec une gestion impossible de diverses librairies, nous cherchons dans le manuel de commandes Series_AT du SIM7000 pour effectuer la réception)
 
+Séance 8 18/11/2022
+-
+
+* on a réussi a recevoir un SMS sur la carte et le lire
+* on essai de gérer la mémoire de la carte SIM
+
 
