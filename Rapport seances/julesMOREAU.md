@@ -66,4 +66,15 @@ Séance 8 18/11/2022
 * on a réussi a recevoir un SMS sur la carte et le lire
 * on essai de gérer la mémoire de la carte SIM
 
+Séance 9 25/11/2022
+-
+
+* on arrive a effacer tous les sms de la mémoire de la carte SIM après utilisation
+* essais de récupérer la chaine de caractère du message envoyé par le téléphone pour faire une machine à états
+
+Séance 10 01/12/2022
+-
+
+* travail sur la chaine de caractère et machine à états
+
 
