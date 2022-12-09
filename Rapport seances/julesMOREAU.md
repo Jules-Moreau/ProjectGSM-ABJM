@@ -77,4 +77,10 @@ Séance 10 01/12/2022
 
 * travail sur la chaine de caractère et machine à états
 
+Séance 11 09/12/2022
+-
+
+* on arrive à envoyer des commandes via la console arduino
+* on continue sur la récupération des caractères
+
 
