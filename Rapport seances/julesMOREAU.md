@@ -83,4 +83,9 @@ Séance 11 09/12/2022
 * on arrive à envoyer des commandes via la console arduino
 * on continue sur la récupération des caractères
 
+Séance 12 20/12/2022
+-
+
+* machine à états avec le message que l'on reçoit sur la carte
+
 
