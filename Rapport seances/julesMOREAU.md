@@ -86,6 +86,6 @@ Séance 11 09/12/2022
 Séance 12 20/12/2022
 -
 
-* machine à états avec le message que l'on reçoit sur la carte
+* on commence à travailler sur les requêtes htttp
 
 
