@@ -86,6 +86,6 @@ Séance 11 09/12/2022
 Séance 12 20/12/2022
 -
 
-* on commence à travailler sur les requêtes htttp
+* on commence à travailler sur les requêtes http
 
 
