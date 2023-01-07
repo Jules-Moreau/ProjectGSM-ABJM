@@ -88,4 +88,9 @@ Séance 12 20/12/2022
 
 * on commence à travailler sur les requêtes http
 
+Séance 13 06/01/2023
+-
+
+* création du code pour se connecter au wifi et accèder à une page web avec contenu html (réussi)
+* on commence à faire le code pour se connecter via la carte SIM et non par le wifi
 
