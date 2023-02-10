@@ -94,3 +94,13 @@ Séance 13 06/01/2023
 * création du code pour se connecter au wifi et accèder à une page web avec contenu html (réussi)
 * on commence à faire le code pour se connecter via la carte SIM et non par le wifi
 
+Séance 14 19/01/2023
+-
+
+* code connection internet via carte sim
+
+Séance 15 10/02/2023
+-
+
+* code connection internet via carte sim
+
