@@ -104,3 +104,7 @@ Séance 15 10/02/2023
 
 * code connection internet via carte sim
 
+Séance 16 17/02/2023
+-
+
+* code connection internet via carte sim
