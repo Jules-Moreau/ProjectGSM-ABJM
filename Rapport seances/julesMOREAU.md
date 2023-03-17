@@ -108,3 +108,8 @@ Séance 16 17/02/2023
 -
 
 * code connection internet via carte sim
+
+Séance 17 17/03/2023
+-
+
+* rédaction du code final avec uniquement des commandes AT + test du Hardware (nouvelle carte sur breadbord) avec implémentation d'un code fonctionnel (il manque l'adaptateur SIM pour pouvoir tester la carte SIM)
