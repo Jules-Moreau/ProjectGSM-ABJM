@@ -113,3 +113,13 @@ Séance 17 17/03/2023
 -
 
 * rédaction du code final avec uniquement des commandes AT + test du Hardware (nouvelle carte sur breadbord) avec implémentation d'un code fonctionnel (il manque l'adaptateur SIM pour pouvoir tester la carte SIM)
+
+Séance 18 23/03/2023
+-
+
+* ajout GPS dans le code final + essai carte SIM sur nouvelle carte breadboard
+
+Séance 19 28/03/2023
+-
+
+* ajout requête HTTP dans le code final + test fonctionnalités sur breadboard avec carte SIM 
