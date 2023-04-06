@@ -123,3 +123,8 @@ Séance 19 28/03/2023
 -
 
 * ajout requête HTTP dans le code final + test fonctionnalités sur breadboard avec carte SIM 
+
+Séance 20 06/04/2023
+-
+
+* connexion internet via gsm et non wifi + test fonctionnalités sur breadboard avec carte SIM
