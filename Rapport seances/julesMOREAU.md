@@ -128,3 +128,8 @@ Séance 20 06/04/2023
 -
 
 * connexion internet via gsm et non wifi + test fonctionnalités sur breadboard avec carte SIM
+
+Séance 21 20/04/2023
+-
+
+* connexion 3G + test breadboard
